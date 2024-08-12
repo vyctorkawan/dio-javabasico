@@ -9,6 +9,8 @@ public class tipo_variaveis {
         double ponto = 3.15; //armazena numeros fracionados com até 8 bytes
         float flutuante = 3.15F; //armazena fracionados até 4 bytes (sempre finalizar com F)
 
+        boolean trueOrFalse = true;
+        char unico = 'X'; //armazena um caractere
 
     }
 }
