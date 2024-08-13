@@ -10,5 +10,10 @@ public class OperadoresSimples {
         int modulo = 18 % 3; //retorna restos da divisao
 
         System.out.println(adicaoStr);
+        System.out.println(adicao);
+        System.out.println(sub);
+        System.out.println(multiplicacao);
+        System.out.println(divisao);
+        System.out.println(modulo);
     }
 }
