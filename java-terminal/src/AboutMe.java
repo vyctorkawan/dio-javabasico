@@ -11,3 +11,4 @@ public class AboutMe {
         System.out.println("Minha altura é " + altura + "cm ");
     }
 }
+//para inserir informações pelo VS, apagar o comentário args em launch

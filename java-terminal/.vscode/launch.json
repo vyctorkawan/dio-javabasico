@@ -6,10 +6,17 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ScannerSobre",
+            "request": "launch",
+            "mainClass": "ScannerSobre",
+            "projectName": "java-terminal_f121f295"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "args": ["Vyctor", "Kawan", "19", "1.77"]
+            //"args": [ "Vyctor", "Kawan", "19", "1.77"]
         },
         {
             "type": "java",
